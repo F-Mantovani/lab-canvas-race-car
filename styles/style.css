@@ -33,6 +33,17 @@ body button {
 }
 
 #game-board {
-    float: left;
-    padding: 20px 0px;
+  float: left;
+  padding: 20px 0px;
+  height: 700px;
+  width:500px;
+  /* background-image: url('../images/road.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; */
+} 
+
+#canvas {
+  border: 1px solid red;
 }
+
